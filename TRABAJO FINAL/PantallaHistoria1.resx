@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblCapitulo1.Text" xml:space="preserve">
+    <value>Capítulo 1: Los Elegidos del Bosque\n El Bosque de Teralin había sido el corazón palpitante de la naturaleza durante siglos.\n Sin embargo, la humanidad, al alejarse de su conexión con la tierra, comenzó a destruir\n el equilibrio que una vez lo mantuvo vivo. La erosión avanzaba, los árboles caían y la\n vida del bosque se desvanecía. Pero, en las sombras del bosque, los Ancianos del Bosque\n decidieron intervenir. Eligieron a Terrakor, el Guardián del Bosque, quien, armado con\n una armadura mística y la capacidad de comunicarse con la naturaleza, era el único\n que podía restaurar el equilibrio.\n Terrakor fue acompañado por Lyraea, una joven guerrera con alas purpuras, cuya\n espada brillaba con energía divina. Lyraea había sido elegida no solo por su destreza\n en combate, sino también por su valentía. Juntos, se embarcaron en una misión para\n salvar al Bosque de Teralin de la destrucción.\n</value>
+  </data>
+  <data name="lblCapitulo2.Text" xml:space="preserve">
+    <value>Capítulo 2: La Tribu Zolghar\n El primer enemigo que enfrentaron fue Zolghar, un guerrero ancestral que,\n tras caer bajo la corrupción, fue transformado en un zombie. Zolghar no\n solo conservaba sus habilidades de combate, sino que también empuñaba\n una espada maldita, capaz de cortar incluso la esencia misma de la vida.\n Terrakor y Lyraea llegaron a las tierras pantanosas donde Zolghar y su tribu de\n muertos vivientes acechaban. La tribu atacó con ferocidad, pero Zolghar se destacó\n entre ellos, luchando con una destreza mortal gracias a su espada maldita. Lyraea,\n con su velocidad y habilidad con la espada, se enfrentó directamente a Zolghar,\n mientras Terrakor invocaba las fuerzas de la tierra para crear barreras y protegerse de los ataques.\n Zolghar utilizó su espada para desatar golpes letales, cortando los árboles a su alrededor y\n  enviando ondas de energía oscura. En un momento crítico, Lyraea logró desarmarlo, despojándolo\n de su espada. Sin la espada maldita, Zolghar perdió su mayor fuente de poder, y Terrakor lo destruyo\n con un golpe certero, restaurando la paz temporalmente en el pantano.\n</value>
+  </data>
+  <data name="lblCapitulo3.Text" xml:space="preserve">
+    <value>Capítulo 3: La Fuerza de Taurus\n Después de la victoria sobre Zolghar, Terrakor y Lyraea se adentraron más en el bosque,\n solo para enfrentarse a Taurus, el Toro de Guerra. Taurus, una bestia de inmensa fuerza,\n portaba un tridente de poder antiguo, capaz de destrozar todo a su paso. Su poder era\n casi imparable, y su furia destructiva arrasaba con cualquier cosa que encontraba a su paso.\n Terrakor intentó enfrentarse a Taurus de manera directa, pero pronto se dio cuenta de que\n  el poder del tridente era mucho más peligroso de lo que imaginaba. Los ataques de Taurus\n  causaban explosiones en el suelo, haciendo que el terreno se abriera a su paso. Lyraea,\n usando su agilidad, intentó distraer al toro, pero su tamaño y poder eran abrumadores.\n La clave para derrotarlo fue la astucia de Lyraea. Aprovechando un momento en que\n Taurus se distrajo, ella logró acercarse lo suficiente para golpear los puntos débiles en\n su armadura. Mientras tanto, Terrakor, usando el poder de la tierra, hizo que el suelo bajo\n Taurus cediera, atrapándolo en un foso profundo. Sin su tridente y rodeado por las raíces\n del bosque, Taurus finalmente fue derrotado.\n</value>
+  </data>
+  <data name="lblCapitulo4.Text" xml:space="preserve">
+    <value>Capítulo 4: El Minotauro Alado - Minnor\n La siguiente amenaza que enfrentaron fue Minnor, el Minotauro alado.\n Esta criatura no solo era increíblemente fuerte, sino que dominaba el fuego\n de una manera peligrosa. Cada vez que el fuego de Minnor colisionaba con algo,\n se dividía en cuatro llamas que volaban en direcciones aleatorias, lo que hacía\n que sus ataques fueran impredecibles y difíciles de esquivar.\n Minnor comenzó su ataque desde el aire, lanzando llamaradas que se dividían y\n se esparcían en todas direcciones. Las llamas tocaban árboles, rocas y el suelo,\n causando explosiones a cada momento. Lyraea, utilizando sus alas purpuras,\n voló rápidamente para esquivar el fuego, pero incluso ella tuvo dificultades para\n mantenerse al margen de las llamas erráticas.\n Terrakor, reconociendo la naturaleza impredecible de los ataques de Minnor,\n decidió utilizar su control sobre los elementos para contrarrestar el fuego.\n Invocó vientos poderosos que ayudaron a redirigir las llamas de Minnor, mientras que Lyraea,\n en el aire, atacaba al minotauro con velocidad. Finalmente, Terrakor usó su poder para crear\n un campo de raíces y plantas alrededor de Minnor, atrapándolo antes de que pudiera lanzar más llamas.\n Con un golpe certero, Minnor fue derrotado, cayendo al suelo con un estruendo.\n</value>
+  </data>
+  <data name="lblCapitulo5.Text" xml:space="preserve">
+    <value>Capítulo 5: La Alianza Oscura\n Después de la derrota de tres de sus enemigos, Terrakor y Lyraea se sintieron victoriosos,\n pero su éxito fue corto. Los tres enemigos, Zolghar, Taurus y Minnor, se unieron en una\n  alianza oscura, jurando vengarse de aquellos que habían destruido sus cuerpos. Juntos,\n combinaron sus fuerzas y crearon una tormenta de caos y destrucción.\n Zolghar usaba su magia oscura para invocar más muertos vivientes, Taurus desataba su\n tridente con una furia incontrolable, y Minnor lanzaba llamas que se multiplicaban y se\n esparcían por todo el campo. Juntos, atacaron a Terrakor y Lyraea con una intensidad\n nunca antes vista.\n La batalla fue épica y agotadora. Terrakor y Lyraea lucharon con todo su poder,\n pero la unión de los tres enemigos los sobrepasaba. La corrupción de Zolghar,\n  la furia destructiva de Taurus y la imprevisibilidad del fuego de Minnor eran\n demasiado para resistir. Terrakor fue finalmente derrotado, atrapado por las\n llamas y la magia oscura. Lyraea luchó desesperadamente, pero la oscuridad\n parecía invencible.\n</value>
+  </data>
+  <data name="lblCapitulo6.Text" xml:space="preserve">
+    <value>Capitulo 6: El Ultimo Combate:\n La Victoria del Guardián Renovado, Terrakor se levantó, llevando consigo la furia de la naturaleza.\n Con un rugido que sacudió la tierra, invocó la furia del bosque, desatando un torrente de energía\n  que purificó el aire y destruyó las fuerzas oscuras de Zolghar, Taurus y Minnor. Las raíces del bosque\n atraparon a los tres enemigos, mientras el fuego de Minnor fue extinguido por las aguas de la tierra.\n Con un golpe final, Terrakor destruyó la fuente de la corrupción y restauró el equilibrio,\n expulsando la oscuridad del Bosque de Teralin. La paz regresó, y el bosque, ahora más fuerte que nunca,\n fue restaurado a su antigua gloria.\n</value>
+  </data>
+</root>
